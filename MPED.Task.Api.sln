@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33529.622
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MPED.Task.Api", "MPED.Task.Api\MPED.Task.Api.csproj", "{1AD788EF-97BA-4B4E-A52D-ADF1FC78333A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Core", "Core\Core.csproj", "{CF230C66-0285-4930-A8B8-192BCA7F2725}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data", "Data\Data.csproj", "{8007657B-ED6B-48C8-9688-DC53DFBE7A29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1AD788EF-97BA-4B4E-A52D-ADF1FC78333A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1AD788EF-97BA-4B4E-A52D-ADF1FC78333A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1AD788EF-97BA-4B4E-A52D-ADF1FC78333A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1AD788EF-97BA-4B4E-A52D-ADF1FC78333A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF230C66-0285-4930-A8B8-192BCA7F2725}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF230C66-0285-4930-A8B8-192BCA7F2725}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF230C66-0285-4930-A8B8-192BCA7F2725}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF230C66-0285-4930-A8B8-192BCA7F2725}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8007657B-ED6B-48C8-9688-DC53DFBE7A29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8007657B-ED6B-48C8-9688-DC53DFBE7A29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8007657B-ED6B-48C8-9688-DC53DFBE7A29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8007657B-ED6B-48C8-9688-DC53DFBE7A29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E7664382-5ABB-4AE4-86D7-A839F36A0E4D}
+	EndGlobalSection
+EndGlobal
